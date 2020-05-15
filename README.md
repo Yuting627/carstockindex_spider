@@ -1,0 +1,2 @@
+scrapy crawl stockindex_spider
+如需更新数据，需要更新stock_spider中的网站
